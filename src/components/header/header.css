@@ -1,0 +1,11 @@
+header#main-header{
+    width: 100%;
+    margin: 5px;
+    background: #b93b00;
+    color: white;
+    padding: 0.5em;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    ;
+}
